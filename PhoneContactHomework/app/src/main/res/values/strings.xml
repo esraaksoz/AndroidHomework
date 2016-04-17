@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PHONE CONTACT RECOVERY</string>
+    <string name="operator1">Turkcell</string>
+    <string name="operator2">Vodafone</string>
+    <string name="operator3">Avea</string>
+    <string name="operator4">All</string>
+    <string name="btn1">Back-Up</string>
+    <string name="btn2">Recover</string>
+
+</resources>
